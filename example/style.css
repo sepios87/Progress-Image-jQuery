@@ -1,5 +1,7 @@
 #contain{
     display : flex;
+    height: 800px;
+    margin-top: 800px;
 }
 
 #addIcon{
