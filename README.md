@@ -6,7 +6,8 @@ Steps to follow :
  2. Import the "progress.js" script
  3. Add your icons
  4. Add the "progressIcon" class to your
- 5. Add the datas you want (data-class, data-percent, data-color, data-animation)
- 6. Have fun! 
+ 5. Add the datas you want (data-percent, data-color, data-animation)
+ 6. You can edit the style with progressIcon
+ 7. Have fun! 
 
-<img src="rendu.png" alt="image rendu">
+<img src="rendu.PNG" alt="image rendu">
