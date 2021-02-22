@@ -10,4 +10,4 @@ Steps to follow :
  6. You can edit the style with progressIcon
  7. Have fun! 
 
-<img src="rendu.PNG" alt="image rendu">
+<img src="example/rendu.PNG" alt="image rendu">
