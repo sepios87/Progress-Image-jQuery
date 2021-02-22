@@ -1,0 +1,11 @@
+#contain{
+    display : flex;
+}
+
+#addIcon{
+    font-size: 150px;
+}
+
+.progressIcon{
+    margin : 50px;
+}
