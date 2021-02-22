@@ -9,4 +9,4 @@ Steps to follow :
  5. Add the datas you want (data-class, data-percent, data-color, data-animation)
  6. Have fun! 
 
-<img src="Screenshot_2021-02-21 Document.png" alt="image rendu">
+<img src="rendu.png" alt="image rendu">
