@@ -1,4 +1,4 @@
-# Progress Svg in jQuery
+# Progress Image in jQuery
 
 Steps to follow : 
 
